@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(197, 209, 209);
+}
+
+.container {
+  margin:auto;
+  font-size: 1.5rem;
+  align-items: center;
+  justify-items: center;
+
+}
+
+
+.t {
+  width: 10px;
+  height: 10px;
+  border: 1px solid red;
+}
+
+.price {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+}
+
+ .basic1 {
+  margin: top 1.5em;;
+  width: 500px;
+  height: 600px;
+  background-color: aliceblue;
+}
+
+.basic1 .basic2 {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.basic1 .basic3 {
+  text-align: center;
+  font-size: 5rem;
+}
+
+ul li {
+  list-style: none;
+  border: 1px solid;
+  padding: 10px;
+  width: 400px;
+  height: 50px;
+  margin: 1px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 500;
+  background-color: aliceblue;
+  overflow: hidden;
+}
+
+.list-items {
+  border: 1.5rem;
+  margin: 30px;
+}
+
+button {
+  width: 20rem;
+  padding: 1rem;
+  border: 1px solid black;
+  font-size: 1.5rem;
+  margin-left: 5rem;
+  border-radius: 8px;
+}
+
+
+button {
+  background-color: rgb(141, 141, 208);
+  color: white;
+}
+
+.container {
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+
+
+.second .basic2 {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.second .basic3 {
+  text-align: center;
+  font-size: 5rem;
+}
+
+.container .container1 {
+  margin: top 1.5em;;
+  width: 500px;
+  height: 600px;
+  background-color: rgb(94, 144, 188);
+}
